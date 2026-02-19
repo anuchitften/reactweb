@@ -30,7 +30,7 @@ const Experience = () => {
                     <TitleLink isHighlight={isMouseEnter['exp1']} title="Fullstack" link="https://github.com/anuchitften/reactweb" />
                     <div className="flex gap-4 text-xl" >
                         <Material icon={faGithub} link="https://github.com/anuchitften/reactweb" />
-                        <Material icon={faYoutube} link="https://www.youtube.com/watch?v=9BalEldzE8o" />
+                        <Material icon={faYoutube} link="https://www.youtube.com/watch?v=mHJ3l18YqNM" />
                     </div>
                     <Description description="Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers." />
                     
