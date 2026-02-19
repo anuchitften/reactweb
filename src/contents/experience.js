@@ -24,7 +24,7 @@ export const data = [
         link: "https://github.com/anuchitften/reactweb",
         material: [
             {type: faGithub, link: "https://github.com/anuchitften/reactweb"},
-            {type: faYoutube, link: "https://www.youtube.com/watch?v=9BalEldzE8o"}
+            {type: faYoutube, link: "https://www.youtube.com/watch?v=mHJ3l18YqNM"}
         ],
         descriptions: [
             "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers."
